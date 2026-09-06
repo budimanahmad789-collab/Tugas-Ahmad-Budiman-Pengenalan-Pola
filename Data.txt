@@ -1,0 +1,15 @@
+Nama                 Diagnosa
+Pasien Umur Gender   Sakit
+Anto       24L       Tidak
+Budi       35L       Ya
+Adi        55L       Ya
+Delima     32P       Ya
+Dodi       21L       Tidak
+Tukiyem    19P       Tidak
+Rama       23L       Tidak
+Santi      35P       Tidak
+Mery       44P       Ya
+Yanti      27P       Tidak
+Parto      43L       Ya
+Dea        24P       Tidak
+
